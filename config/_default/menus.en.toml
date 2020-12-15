@@ -1,0 +1,69 @@
+[[main]]
+  identifier = "about"
+  name = "关于"
+  url = "about"
+  weight = 1
+
+[[main]]
+  identifier = "archive"
+  name = "档案馆"
+  url = "archive"
+  weight = 6
+
+[[main]]
+  identifier = "posts"
+  name = "文章"
+  url = "posts"
+  weight = 3
+
+[[main]]
+  identifier = "presentation"
+  name = "Presentation"
+  url = "presentation"
+  weight = 4
+
+
+[[main]]
+  identifier = "category"
+  name = "分类"
+  url = "categories/"
+  weight = 2
+
+[[main]]
+  parent = "category"
+  name = "Cartoond"
+  url = "gallery/cartoon"
+
+[[main]]
+  parent = "category"
+  name = "Photod"
+  url = "gallery/photo"
+
+[[main]]
+  identifier = "gallery"
+  name = "藏库"
+  url = "gallery"
+  weight = 5
+    
+[[main]]
+  parent = "gallery"
+  name = "Cartoon"
+  url = "gallery/cartoon"
+
+[[main]]
+  parent = "gallery"
+  name = "Photo"
+  url = "gallery/photo"
+
+
+[[main]]
+  identifier = "showcase"
+  name = "Showcase"
+  url = "showcase"
+  weight = 7
+
+[[main]]
+  identifier = "publication"
+  name = "Pub"
+  url = "publication"
+  weight = 8

@@ -27,7 +27,7 @@ header:
     title:
       - PokeZhu's Blog
     subtitle:
-      - Constant dropping wears the stone. websites
+      - Constant dropping wears the stone. 
     titleColor: 
     titleShadow: true
     titleFontSize: 44

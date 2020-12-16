@@ -2,19 +2,35 @@
   identifier = "about"
   name = "关于"
   url = "about"
+  weight = 0
+
+[[main]]
+  identifier = "series"
+  name = "系列"
+  url = "series/"
   weight = 1
+
+[[main]]
+  parent = "series"
+  name = "面试"
+  url = "series/interview"
+
+[[main]]
+  parent = "series"
+  name = "开源框架"
+  url = "series/"
 
 [[main]]
   identifier = "archive"
   name = "档案馆"
   url = "archive"
-  weight = 6
+  weight = 3
 
 [[main]]
   identifier = "posts"
   name = "文章"
   url = "posts"
-  weight = 3
+  weight = 6
 
 [[main]]
   identifier = "presentation"
@@ -31,13 +47,23 @@
 
 [[main]]
   parent = "category"
-  name = "Cartoond"
-  url = "gallery/cartoon"
+  name = "Golang"
+  url = "categories/golang"
 
 [[main]]
   parent = "category"
-  name = "Photod"
-  url = "gallery/photo"
+  name = "LeetCode"
+  url = "categories/leetcode"
+
+[[main]]
+  parent = "category"
+  name = "框架"
+  url = "categories/frame"
+
+[[main]]
+  parent = "category"
+  name = "知识"
+  url = "categories/code"
 
 [[main]]
   identifier = "gallery"

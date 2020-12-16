@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Code on 鬼斯通のblog物语</title>
+    <link>https://zhr619151879.github.io/categories/code/</link>
+    <description>Recent content in Code on 鬼斯通のblog物语</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zhuhaoran@gmail.com (ZHU_HAO_RAN)</managingEditor>
+    <webMaster>zhuhaoran@gmail.com (ZHU_HAO_RAN)</webMaster>
+    <copyright>&amp;copy;{year},ZHU All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 16 Dec 2020 11:30:54 +0000</lastBuildDate>
+    <sy:updatePeriod>monthly</sy:updatePeriod>
+    
+        <atom:link href="https://zhr619151879.github.io/categories/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>[面试]-校招Java知识</title>
+        <link>https://zhr619151879.github.io/posts/series/interview/java/</link>
+        <pubDate>Wed, 16 Dec 2020 11:30:54 +0000</pubDate>
+        <author>zhuhaoran@gmail.com (ZHU_HAO_RAN)</author>
+        <atom:modified>Wed, 16 Dec 2020 11:30:54 +0000</atom:modified>
+        <guid>https://zhr619151879.github.io/posts/series/interview/java/</guid>
+        <description>概述 基础 数据类型(字节 1byte=8bits) byte/1 char/2 short/2 int/4 float/4 long/8 double/8 boolean/~ : true、false，可以使用 1 bit 来存储，但是具体大小没有明确规定。JVM 会在编译时期将 boolean 类型的数</description>
+        
+        <dc:creator>ZHU_HAO_RAN</dc:creator>
+        <media:content url="https://zhr619151879.github.io/images/feature2/workflow.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>Code</category>
+            
+          
+        
+        
+          
+            
+              <category>Interview</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>[面试]-校招计算机网络知识</title>
+        <link>https://zhr619151879.github.io/posts/series/interview/%E7%BD%91%E7%BB%9C/</link>
+        <pubDate>Wed, 16 Dec 2020 11:23:54 +0000</pubDate>
+        <author>zhuhaoran@gmail.com (ZHU_HAO_RAN)</author>
+        <atom:modified>Wed, 16 Dec 2020 11:23:54 +0000</atom:modified>
+        <guid>https://zhr619151879.github.io/posts/series/interview/%E7%BD%91%E7%BB%9C/</guid>
+        <description>HTTPS Hyper Text Transfer Protocol over Secure Socket Layer HTTP 有以下安全性问题： 使用明文进行通信，内容可能会被窃听； 不验证通信方的身份，通信方的身份有可能遭遇伪装； 无法证明报文的完整</description>
+        
+        <dc:creator>ZHU_HAO_RAN</dc:creator>
+        <media:content url="https://zhr619151879.github.io/images/feature2/mathbook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>Code</category>
+            
+          
+        
+        
+          
+            
+              <category>Interview</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>[面试]-校招数据库知识</title>
+        <link>https://zhr619151879.github.io/posts/series/interview/%E6%95%B0%E6%8D%AE%E5%BA%93/</link>
+        <pubDate>Wed, 16 Dec 2020 11:21:54 +0000</pubDate>
+        <author>zhuhaoran@gmail.com (ZHU_HAO_RAN)</author>
+        <atom:modified>Wed, 16 Dec 2020 11:21:54 +0000</atom:modified>
+        <guid>https://zhr619151879.github.io/posts/series/interview/%E6%95%B0%E6%8D%AE%E5%BA%93/</guid>
+        <description>Mysql SQL执行过程 ![image-20200831221827719](/Users/zhuhaoran/Library/Application Support/typora-user-images/image-20200831221827719.png) 事务 事务指的是满足 ACID 特性的一组操作，可以通过 Commit 提交一个事务，也可以使用 Rollback 进行回滚。 ACID ![image-20200818162605438](/Users/zhuhaoran/Library/Application Support/typora-user-images/image-20200818162605438.png) 并发一致性问题 丢失修改 ![image-20200818162810687](/Users/zhuhaoran/Library/Application Support/typora-user-images/image-20200818162810687.png) 读脏数</description>
+        
+        <dc:creator>ZHU_HAO_RAN</dc:creator>
+        <media:content url="https://zhr619151879.github.io/images/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>Code</category>
+            
+          
+        
+        
+          
+            
+              <category>Interview</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>[面试]-校招操作系统知识</title>
+        <link>https://zhr619151879.github.io/posts/series/interview/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</link>
+        <pubDate>Wed, 16 Dec 2020 11:20:54 +0000</pubDate>
+        <author>zhuhaoran@gmail.com (ZHU_HAO_RAN)</author>
+        <atom:modified>Wed, 16 Dec 2020 11:20:54 +0000</atom:modified>
+        <guid>https://zhr619151879.github.io/posts/series/interview/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</guid>
+        <description>Linux ![image-20200902214702059](/Users/zhuhaoran/Library/Application Support/typora-user-images/image-20200902214702059.png) 用户态, 内核态 https://zhuanlan.zhihu.com/p/69554144 内核，它是一种特殊的软件程序,控制计算机的硬件资源，例如协调CPU资源，分配内存资源，并且提供稳定的环境供应用程序运行</description>
+        
+        <dc:creator>ZHU_HAO_RAN</dc:creator>
+        <media:content url="https://zhr619151879.github.io/images/feature1/flowchart.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>Code</category>
+            
+          
+        
+        
+          
+            
+              <category>Interview</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

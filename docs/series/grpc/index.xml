@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GRPC on 鬼斯通のblog物语</title>
+    <link>https://zhr619151879.github.io/series/grpc/</link>
+    <description>Recent content in GRPC on 鬼斯通のblog物语</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zhuhaoran@gmail.com (ZHU_HAO_RAN)</managingEditor>
+    <webMaster>zhuhaoran@gmail.com (ZHU_HAO_RAN)</webMaster>
+    <copyright>&amp;copy;{year},ZHU All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 16 Dec 2020 11:12:54 +0000</lastBuildDate>
+    <sy:updatePeriod>monthly</sy:updatePeriod>
+    
+        <atom:link href="https://zhr619151879.github.io/series/grpc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>[GRPC详解]-2</title>
+        <link>https://zhr619151879.github.io/posts/series/grpc/grpc-2/</link>
+        <pubDate>Wed, 16 Dec 2020 11:12:54 +0000</pubDate>
+        <author>zhuhaoran@gmail.com (ZHU_HAO_RAN)</author>
+        <atom:modified>Wed, 16 Dec 2020 11:12:54 +0000</atom:modified>
+        <guid>https://zhr619151879.github.io/posts/series/grpc/grpc-2/</guid>
+        <description></description>
+        
+        <dc:creator>ZHU_HAO_RAN</dc:creator>
+        <media:content url="https://zhr619151879.github.io/images/feature1/flowchart.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+            
+              <category>Frame</category>
+            
+          
+        
+        
+          
+            
+              <category>GRPC</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>[GRPC详解]-1</title>
+        <link>https://zhr619151879.github.io/posts/series/grpc/grpc/</link>
+        <pubDate>Wed, 16 Dec 2020 11:09:21 +0000</pubDate>
+        <author>zhuhaoran@gmail.com (ZHU_HAO_RAN)</author>
+        <atom:modified>Wed, 16 Dec 2020 11:09:21 +0000</atom:modified>
+        <guid>https://zhr619151879.github.io/posts/series/grpc/grpc/</guid>
+        <description>afdsaf</description>
+        
+        <dc:creator>ZHU_HAO_RAN</dc:creator>
+        <media:content url="https://zhr619151879.github.io/images/feature1/flowchart.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+            
+              <category>Frame</category>
+            
+          
+        
+        
+          
+            
+              <category>GRPC</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

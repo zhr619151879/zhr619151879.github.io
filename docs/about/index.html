@@ -665,7 +665,7 @@
     
     var enableSearchHighlight = JSON.parse("true");
     
-    var searchResultPosition = JSON.parse("\"main\"");
+    var searchResultPosition = JSON.parse("[\"main\",\"side\"]");
     
     var sectionType = JSON.parse("\"about\"");
     
@@ -1470,9 +1470,23 @@
       
 
       
-        <li class="navbarm__menu--item active">
-          <a href="/about">关于</a>
+        <li class="navbarm__menu--item ">
+          <a href="/series/">
+            系列
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"><path fill="currentColor" d="M8.12 9.29L12 13.17l3.88-3.88c.39-.39 1.02-.39 1.41 0 .39.39.39 1.02 0 1.41l-4.59 4.59c-.39.39-1.02.39-1.41 0L6.7 10.7c-.39-.39-.39-1.02 0-1.41.39-.38 1.03-.39 1.42 0z"/></svg>
+          </a>
         </li>
+
+        
+          <li class="navbarm__menu--item navbarm__menu--subitem">
+            <a href="/series/">开源框架</a>
+          </li>
+        
+          <li class="navbarm__menu--item navbarm__menu--subitem">
+            <a href="/series/interview">面试</a>
+          </li>
+        
+
       
       
     
@@ -1491,11 +1505,19 @@
 
         
           <li class="navbarm__menu--item navbarm__menu--subitem">
-            <a href="/gallery/cartoon">Cartoond</a>
+            <a href="/categories/golang">Golang</a>
           </li>
         
           <li class="navbarm__menu--item navbarm__menu--subitem">
-            <a href="/gallery/photo">Photod</a>
+            <a href="/categories/leetcode">LeetCode</a>
+          </li>
+        
+          <li class="navbarm__menu--item navbarm__menu--subitem">
+            <a href="/categories/frame">框架</a>
+          </li>
+        
+          <li class="navbarm__menu--item navbarm__menu--subitem">
+            <a href="/categories/code">知识</a>
           </li>
         
 
@@ -1509,7 +1531,7 @@
 
       
         <li class="navbarm__menu--item ">
-          <a href="/posts">文章</a>
+          <a href="/archive">档案馆</a>
         </li>
       
       
@@ -1559,7 +1581,7 @@
 
       
         <li class="navbarm__menu--item ">
-          <a href="/archive">档案馆</a>
+          <a href="/posts">文章</a>
         </li>
       
       
@@ -1588,22 +1610,28 @@
       
       
     
+      
+      
+      
+      
+
+      
+        <li class="navbarm__menu--item active">
+          <a href="/about">关于</a>
+        </li>
+      
+      
+    
 
     
       <li class="navbarm__menu--item ">
-        <a href="/tags" class="navbarm__menu--term" data-index="0">
-          Tags
-        </a>
-      </li>
-    
-      <li class="navbarm__menu--item ">
-        <a href="/categories" class="navbarm__menu--term" data-index="1">
+        <a href="/categories" class="navbarm__menu--term" data-index="0">
           Categories
         </a>
       </li>
     
       <li class="navbarm__menu--item ">
-        <a href="/series" class="navbarm__menu--term" data-index="2">
+        <a href="/series" class="navbarm__menu--term" data-index="1">
           Series
         </a>
       </li>
@@ -1621,7 +1649,20 @@
   
   
   
-  <a href="/about" class="navbar__menu-item navbar__slide-down active" dir="ltr" data-ani="true">关于</a>
+  <div class="navbar__dropdown navbar__slide-down" data-ani="true">
+    <a href="/series/" class="navbar__menu-item "
+      dir="ltr">
+      系列
+      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"><path fill="currentColor" d="M8.12 9.29L12 13.17l3.88-3.88c.39-.39 1.02-.39 1.41 0 .39.39.39 1.02 0 1.41l-4.59 4.59c-.39.39-1.02.39-1.41 0L6.7 10.7c-.39-.39-.39-1.02 0-1.41.39-.38 1.03-.39 1.42 0z"/></svg>
+    </a>
+    <div class="navbar__dropdown--content">
+      
+      <a href="/series/" class="navbar__dropdown--item" dir="ltr">开源框架</a>
+      
+      <a href="/series/interview" class="navbar__dropdown--item" dir="ltr">面试</a>
+      
+    </div>
+  </div>
   
   
   
@@ -1637,9 +1678,13 @@
     </a>
     <div class="navbar__dropdown--content">
       
-      <a href="/gallery/cartoon" class="navbar__dropdown--item" dir="ltr">Cartoond</a>
+      <a href="/categories/golang" class="navbar__dropdown--item" dir="ltr">Golang</a>
       
-      <a href="/gallery/photo" class="navbar__dropdown--item" dir="ltr">Photod</a>
+      <a href="/categories/leetcode" class="navbar__dropdown--item" dir="ltr">LeetCode</a>
+      
+      <a href="/categories/frame" class="navbar__dropdown--item" dir="ltr">框架</a>
+      
+      <a href="/categories/code" class="navbar__dropdown--item" dir="ltr">知识</a>
       
     </div>
   </div>
@@ -1650,7 +1695,7 @@
   
   
   
-  <a href="/posts" class="navbar__menu-item navbar__slide-down " dir="ltr" data-ani="true">文章</a>
+  <a href="/archive" class="navbar__menu-item navbar__slide-down " dir="ltr" data-ani="true">档案馆</a>
   
   
   
@@ -1687,7 +1732,7 @@
   
   
   
-  <a href="/archive" class="navbar__menu-item navbar__slide-down " dir="ltr" data-ani="true">档案馆</a>
+  <a href="/posts" class="navbar__menu-item navbar__slide-down " dir="ltr" data-ani="true">文章</a>
   
   
   
@@ -1704,6 +1749,14 @@
   
   
   <a href="/publication" class="navbar__menu-item navbar__slide-down " dir="ltr" data-ani="true">Pub</a>
+  
+  
+  
+  
+  
+  
+  
+  <a href="/about" class="navbar__menu-item navbar__slide-down active" dir="ltr" data-ani="true">关于</a>
   
   
 </div>

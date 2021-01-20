@@ -26,11 +26,11 @@
   url = "archive"
   weight = 3
 
-[[main]]
-  identifier = "posts"
-  name = "文章"
-  url = "posts"
-  weight = 6
+# [[main]]
+#   identifier = "posts"
+#   name = "文章"
+#   url = "posts"
+#   weight = 6
 
 [[main]]
   identifier = "presentation"

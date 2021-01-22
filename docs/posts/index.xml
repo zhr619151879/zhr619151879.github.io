@@ -14,7 +14,7 @@
     <managingEditor>zhuhaoran@gmail.com (ZHU_HAO_RAN)</managingEditor>
     <webMaster>zhuhaoran@gmail.com (ZHU_HAO_RAN)</webMaster>
     <copyright>&amp;copy;{year},ZHU All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 16 Dec 2020 11:30:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jan 2021 16:04:34 +0000</lastBuildDate>
     <sy:updatePeriod>monthly</sy:updatePeriod>
     
         <atom:link href="https://zhr619151879.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -22,6 +22,40 @@
     
     
 
+      
+      <item>
+        <title>[Docker详解]-1:初探Docker</title>
+        <link>https://zhr619151879.github.io/posts/series/docker/%E6%8F%AD%E7%A7%98docker-1/</link>
+        <pubDate>Fri, 22 Jan 2021 16:04:34 +0000</pubDate>
+        <author>zhuhaoran@gmail.com (ZHU_HAO_RAN)</author>
+        <atom:modified>Fri, 22 Jan 2021 16:04:34 +0000</atom:modified>
+        <guid>https://zhr619151879.github.io/posts/series/docker/%E6%8F%AD%E7%A7%98docker-1/</guid>
+        <description>什么是Docker Docker: runc 是一个 Linux 命令行工具，用于根据 OCI容器运行时规范 (opens new window)创建和运行容器。 containerd 是一个守护程序，它管理容器生命周期</description>
+        
+        <dc:creator>ZHU_HAO_RAN</dc:creator>
+        <media:content url="https://zhr619151879.github.io/images/feature1/flowchart.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>Frame</category>
+            
+          
+        
+        
+          
+            
+              <category>DOCKER</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>[面试]-校招Java知识</title>

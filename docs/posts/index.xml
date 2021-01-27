@@ -14,7 +14,7 @@
     <managingEditor>zhuhaoran@gmail.com (ZHU_HAO_RAN)</managingEditor>
     <webMaster>zhuhaoran@gmail.com (ZHU_HAO_RAN)</webMaster>
     <copyright>&amp;copy;{year},ZHU All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 22 Jan 2021 16:04:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Jan 2021 17:13:12 +0000</lastBuildDate>
     <sy:updatePeriod>monthly</sy:updatePeriod>
     
         <atom:link href="https://zhr619151879.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -22,6 +22,74 @@
     
     
 
+      
+      <item>
+        <title>[Docker详解]-3:揭秘Dockerfile</title>
+        <link>https://zhr619151879.github.io/posts/series/docker/%E6%8F%AD%E7%A7%98docker-3/</link>
+        <pubDate>Wed, 27 Jan 2021 17:13:12 +0000</pubDate>
+        <author>zhuhaoran@gmail.com (ZHU_HAO_RAN)</author>
+        <atom:modified>Wed, 27 Jan 2021 17:13:12 +0000</atom:modified>
+        <guid>https://zhr619151879.github.io/posts/series/docker/%E6%8F%AD%E7%A7%98docker-3/</guid>
+        <description>Dockerfile Dockerfie 官方文档：https://docs.docker.com/engine/reference/builder/ Dockerfile 最佳实践文档：https:</description>
+        
+        <dc:creator>ZHU_HAO_RAN</dc:creator>
+        <media:content url="https://zhr619151879.github.io/images/feature1/graph.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>Frame</category>
+            
+          
+        
+        
+          
+            
+              <category>DOCKER</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>[Docker详解]-2:Docker的使用</title>
+        <link>https://zhr619151879.github.io/posts/series/docker/%E6%8F%AD%E7%A7%98docker-2/</link>
+        <pubDate>Sun, 24 Jan 2021 16:24:49 +0000</pubDate>
+        <author>zhuhaoran@gmail.com (ZHU_HAO_RAN)</author>
+        <atom:modified>Sun, 24 Jan 2021 16:24:49 +0000</atom:modified>
+        <guid>https://zhr619151879.github.io/posts/series/docker/%E6%8F%AD%E7%A7%98docker-2/</guid>
+        <description>使用镜像 获取镜像 从 Docker 镜像仓库获取镜像的命令是 docker pull。其命令格式为： docker pull [选项] [Docker Registry 地址[:端口号]/]仓库名[:标签] 具体的选项可以通过</description>
+        
+        <dc:creator>ZHU_HAO_RAN</dc:creator>
+        <media:content url="https://zhr619151879.github.io/images/feature1/flowchart.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>Frame</category>
+            
+          
+        
+        
+          
+            
+              <category>DOCKER</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>[Docker详解]-1:初探Docker</title>

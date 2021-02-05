@@ -30,7 +30,7 @@
         <author>zhuhaoran@gmail.com (ZHU_HAO_RAN)</author>
         <atom:modified>Wed, 27 Jan 2021 17:13:12 +0000</atom:modified>
         <guid>https://zhr619151879.github.io/posts/series/docker/%E6%8F%AD%E7%A7%98docker-3/</guid>
-        <description>Dockerfile Dockerfie 官方文档：https://docs.docker.com/engine/reference/builder/ Dockerfile 最佳实践文档：https:</description>
+        <description>Dockerfile 指令详解 Dockerfie 官方文档：https://docs.docker.com/engine/reference/builder/ Dockerfile 最佳实践文档：ht</description>
         
         <dc:creator>ZHU_HAO_RAN</dc:creator>
         <media:content url="https://zhr619151879.github.io/images/feature1/graph.png" medium="image"><media:title type="html">featured image</media:title></media:content>

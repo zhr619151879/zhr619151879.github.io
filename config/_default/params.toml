@@ -17,7 +17,7 @@ viewportSize = "normal" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = false
 enablePinnedPosts = true
-minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
+minItemsToShowInTagCloud = 3 # Minimum items to show in tag cloud
 
 # appbar
 enableAppbarSearchIcon = false
@@ -70,7 +70,7 @@ link = "https://github.com/zhr619151879"
 enableBio = true
 enableBioImage = true
 enableSidebar = true
-enableSidebarTags = false
+enableSidebarTags = true
 enableSidebarSeries = true
 enableSidebarCategories = true
 enableHomeSidebarTitles = true

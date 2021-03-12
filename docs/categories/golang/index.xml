@@ -14,7 +14,7 @@
     <managingEditor>zhuhaoran@gmail.com (ZHU_HAO_RAN)</managingEditor>
     <webMaster>zhuhaoran@gmail.com (ZHU_HAO_RAN)</webMaster>
     <copyright>&amp;copy;{year},ZHU All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 16 Dec 2020 11:12:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Mar 2021 10:38:34 +0000</lastBuildDate>
     <sy:updatePeriod>monthly</sy:updatePeriod>
     
         <atom:link href="https://zhr619151879.github.io/categories/golang/index.xml" rel="self" type="application/rss+xml" />
@@ -22,6 +22,70 @@
     
     
 
+      
+      <item>
+        <title>Golang Channel那些事~</title>
+        <link>https://zhr619151879.github.io/posts/knowledge/go-channel/</link>
+        <pubDate>Sun, 07 Mar 2021 10:38:34 +0000</pubDate>
+        <author>zhuhaoran@gmail.com (ZHU_HAO_RAN)</author>
+        <atom:modified>Sun, 07 Mar 2021 10:38:34 +0000</atom:modified>
+        <guid>https://zhr619151879.github.io/posts/knowledge/go-channel/</guid>
+        <description>Go 语言中的一大利器那就是能够非常方便的使用 go 关键字来进行各种并发，而并发后又必然会涉及通信。 Channel 自然而然就成为了 Go 语言开发者中必须要明白明了的</description>
+        
+        <dc:creator>ZHU_HAO_RAN</dc:creator>
+        <media:content url="https://zhr619151879.github.io/images/feature1/wave.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Golang Interface那些事~</title>
+        <link>https://zhr619151879.github.io/posts/knowledge/go-interface/</link>
+        <pubDate>Fri, 26 Feb 2021 22:09:29 +0000</pubDate>
+        <author>zhuhaoran@gmail.com (ZHU_HAO_RAN)</author>
+        <atom:modified>Fri, 26 Feb 2021 22:09:29 +0000</atom:modified>
+        <guid>https://zhr619151879.github.io/posts/knowledge/go-interface/</guid>
+        <description>这篇文章我们来揭秘一下Go语言的接口设计~ 在 Go 语言的语义上，只要某个类型实现了所定义的一组方法集，则就认为其就是同一种类型，是一个东西。大家</description>
+        
+        <dc:creator>ZHU_HAO_RAN</dc:creator>
+        <media:content url="https://zhr619151879.github.io/images/feature1/infinity.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>[GRPC详解]-2</title>

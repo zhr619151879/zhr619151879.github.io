@@ -14,6 +14,7 @@
     <managingEditor>zhuhaoran@gmail.com (ZHU_HAO_RAN)</managingEditor>
     <webMaster>zhuhaoran@gmail.com (ZHU_HAO_RAN)</webMaster>
     <copyright>&amp;copy;{year},ZHU All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 17 Feb 2021 10:41:13 +0000</lastBuildDate>
     <sy:updatePeriod>monthly</sy:updatePeriod>
     
         <atom:link href="https://zhr619151879.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -23,12 +24,30 @@
 
       
       <item>
-        <title>index</title>
-        <link>https://zhr619151879.github.io/tags/index/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <title>Medium</title>
+        <link>https://zhr619151879.github.io/tags/medium/</link>
+        <pubDate>Wed, 17 Feb 2021 10:41:13 +0000</pubDate>
         <author>zhuhaoran@gmail.com (ZHU_HAO_RAN)</author>
         
-        <guid>https://zhr619151879.github.io/tags/index/</guid>
+        <guid>https://zhr619151879.github.io/tags/medium/</guid>
+        <description></description>
+        
+        <dc:creator>ZHU_HAO_RAN</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Easy</title>
+        <link>https://zhr619151879.github.io/tags/easy/</link>
+        <pubDate>Tue, 09 Feb 2021 11:20:09 +0000</pubDate>
+        <author>zhuhaoran@gmail.com (ZHU_HAO_RAN)</author>
+        
+        <guid>https://zhr619151879.github.io/tags/easy/</guid>
         <description></description>
         
         <dc:creator>ZHU_HAO_RAN</dc:creator>

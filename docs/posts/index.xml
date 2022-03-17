@@ -14,7 +14,7 @@
     <managingEditor>zhuhaoran@gmail.com (ZHU_HAO_RAN)</managingEditor>
     <webMaster>zhuhaoran@gmail.com (ZHU_HAO_RAN)</webMaster>
     <copyright>&amp;copy;{year},ZHU All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 07 Mar 2021 10:38:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Mar 2021 10:41:13 +0000</lastBuildDate>
     <sy:updatePeriod>monthly</sy:updatePeriod>
     
         <atom:link href="https://zhr619151879.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -22,6 +22,40 @@
     
     
 
+      
+      <item>
+        <title>[top100]31-下一个排列</title>
+        <link>https://zhr619151879.github.io/posts/leetcode/top100-31/</link>
+        <pubDate>Wed, 17 Mar 2021 10:41:13 +0000</pubDate>
+        <author>zhuhaoran@gmail.com (ZHU_HAO_RAN)</author>
+        <atom:modified>Wed, 17 Mar 2021 10:41:13 +0000</atom:modified>
+        <guid>https://zhr619151879.github.io/posts/leetcode/top100-31/</guid>
+        <description>题目: 下一个排列 整数数组的一个 排列 就是将其所有成员以序列或线性顺序排列。 例如，arr = [1,2,3] ，以下这些都可以视作 arr 的排列：[1,2,3]、[1,</description>
+        
+        <dc:creator>ZHU_HAO_RAN</dc:creator>
+        <media:content url="https://zhr619151879.github.io/images/feature1/graph.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Medium</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>Golang Channel那些事~</title>
